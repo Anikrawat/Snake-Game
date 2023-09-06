@@ -130,4 +130,3 @@ window.addEventListener("keydown", (e) => {
   }
 });
 
-console.log("Hello World.");
