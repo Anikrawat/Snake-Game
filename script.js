@@ -129,3 +129,5 @@ window.addEventListener("keydown", (e) => {
       break;
   }
 });
+
+console.log("Hello World.");
